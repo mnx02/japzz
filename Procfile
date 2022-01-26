@@ -1,1 +1,1 @@
-web: gunicorn japzstart.wsgi --logfile -
+web: gunicorn static.wsgi --logfile -
